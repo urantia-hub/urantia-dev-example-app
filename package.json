@@ -5,17 +5,17 @@
     "dev": "next dev"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.2.2",
+    "@tailwindcss/postcss": "^4.3.3",
     "@urantia/auth": "latest",
     "next": "latest",
-    "postcss": "^8.5.8",
+    "postcss": "^8.5.26",
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
     "@types/node": "25.5.0",
-    "@types/react": "19.2.14",
+    "@types/react": "19.2.18",
     "typescript": "5.9.3"
   }
 }
